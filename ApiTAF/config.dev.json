@@ -1,0 +1,8 @@
+﻿{
+  "Api": {
+    "BaseUrl": "https://httpbin.org"
+  },
+  "App": {
+    "Parameter": "Some data"
+  }
+}
